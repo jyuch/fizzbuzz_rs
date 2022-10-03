@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "fizzbuzz",
+    "fizzbuzz_macro",
+    "fizzbuzz_macro_internals",
+]

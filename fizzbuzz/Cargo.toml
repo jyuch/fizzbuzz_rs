@@ -1,0 +1,7 @@
+[package]
+name = "fizzbuzz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fizzbuzz_macro = { path = "../fizzbuzz_macro" }
